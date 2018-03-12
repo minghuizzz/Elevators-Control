@@ -1,0 +1,14 @@
+﻿生成启动时间为 2014/7/11 14:35:37。
+     1>项目“E:\C艹\小学期\Elevator\Elevator\Elevator.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\Elevator.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         e:\VisualStudio2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>e:\c艹\小学期\elevator\elevator\run.h(11): error C2146: 语法错误: 缺少“;”(在标识符“Elevator”的前面)
+     1>e:\c艹\小学期\elevator\elevator\run.h(11): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+     1>已完成生成项目“E:\C艹\小学期\Elevator\Elevator\Elevator.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:06.33
